@@ -1,6 +1,6 @@
 ## Hi, I'm **Samir**
 
-I am a Data Science student keen on tackling complex Data, Statistics, Visualisation, and Business problems through a variety of tools. Through my background in Data, Business, Economics, and Finance, I am deliver flexible solutions catered to your speciifc needs.
+I am a Data Science student keen on tackling complex Data, Statistics, Visualisation, and Business problems through a variety of tools. Through my background in Data, Business, Economics, and Finance, I deliver flexible solutions catered to your speciifc needs.
 
 ## Find me on
 
