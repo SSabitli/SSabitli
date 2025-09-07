@@ -5,7 +5,7 @@ I am a Data Science student keen on tackling complex Data, Statistics, Visualisa
 ## Find me on
 
 <a href="https://www.linkedin.com/in/samirsabitli/">
-  <img align="left" src="https://raw.githubusercontent.com/SSabitli/SSabitli/blob/0ccc76eb793fd45acd1fe41e5999fe6aaef65644/Images/linkedin.png" alt="Samir Sabitli | LinkedIn" width="21px"/>
+  <img align="left" src="https://raw.githubusercontent.com/SSabitli/SSabitli/0ccc76eb793fd45acd1fe41e5999fe6aaef65644/Images/linkedin.png" alt="Samir Sabitli | LinkedIn" width="21px"/>
 </a>
 
 ## Technical Skills
