@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm **Samir**
 
-<!--
-**SSabitli/SSabitli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Science student keen on tackling complex Data, Statistics, Visualisation, and Business problems through a variety of tools. Through my background in Data, Business, Economics, and Finance, I am deliver flexible solutions catered to your speciifc needs.
 
-Here are some ideas to get you started:
+## Find me on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href=”https://www.linkedin.com/in/samirsabitli/"><img align=”left” src=”https://raw.githubusercontent.com/SSabitli/SSabitli/main/Images/linkedin.png" alt=”Samir Sabitli | LinkedIn” width=”21px”/></a>
+
+## Technical Skills
+
+| Field        | Skill      |
+| :----------- | :--------- |
+| High-level Languages | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
