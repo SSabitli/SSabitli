@@ -1,7 +1,8 @@
 # Hi, I'm **Samir**
 
-I am a Data Science student keen on tackling complex Data, Statistics, Visualisation, and Business problems through a variety of tools. Through my background in Data, Business, Economics, and Finance, I deliver flexible solutions catered to your specific needs.
+I am a Data Science student keen on tackling complex Data, Statistics, Visualisation, and Business problems through a variety of tools.
 
 ## Projects
 
-- [Social Network Analysis of the Bondora Peer-to-Peer Lending Network](https://github.com/SSabitli/SNA-Group-7) - The project was part of the JADS course Social Network Analysis for Data Scientists.
+- [Social Network Analysis of the Bondora Peer-to-Peer Lending Network](https://github.com/SSabitli/SNA-Group-7) - The project was part of the JADS course Social Network Analysis for Data Scientists. The main aim of the project was to gain a practical understanding of network models such as the Exponential Random Graph Model (ERGM), Quadratic Assignment Procedure (QAP), alongside numerous others.
+
